@@ -4,7 +4,7 @@ import { Component, OnInit } from '@angular/core';
   selector: 'lib-textbox',
   template: `
     <p>
-      textbox works!
+      textbox works!2
     </p>
   `,
   styles: [
