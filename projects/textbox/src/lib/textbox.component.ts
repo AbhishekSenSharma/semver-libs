@@ -1,7 +1,7 @@
 import { Component, OnInit } from '@angular/core';
 
 @Component({
-  selector: 'lib-textbox',
+  selector: 'lib-textbox2',
   template: `
     <p>
       textbox works!2
