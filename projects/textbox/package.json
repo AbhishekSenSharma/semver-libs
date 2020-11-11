@@ -1,12 +1,12 @@
 {
   "name": "textbox",
-  "version": "0.0.2",
+  "version": "0.1.0",
   "peerDependencies": {
     "@angular/common": "^10.2.0",
     "@angular/core": "^10.2.0"
   },
   "dependencies": {
-    "button": "^0.0.3",
+    "button": "^0.1.0",
     "tslib": "^2.0.0"
   }
 }
